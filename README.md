@@ -9,7 +9,7 @@
 mkdir -p ~/.config/atuin/themes
 
 # clone repo to wherever you store your code
-git clone https://github.com/esoterick/atuin-tokyo-night
+git clone https://github.com/h4ck4n0n22/atuin-tokyo-night.git
 cd atuin-tokyo-night
 ln -s tokyo-night.toml ~/.config/atuin/themes/tokyo-night.toml
 ```
